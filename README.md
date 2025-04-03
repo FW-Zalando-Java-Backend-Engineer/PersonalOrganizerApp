@@ -161,5 +161,5 @@ Each task should include:
 ---
 
 ## 💡 Need Help?
-Ping your instructor or post in the class Slack — don’t stress alone (or you’ll end up like a PHP app in production 😅).
+Ping your instructor or post in the class Slack — don’t stress alone (or you’ll end up like a Java app in production 😅).
 
